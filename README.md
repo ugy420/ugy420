@@ -5,6 +5,5 @@
 **About me**<br/>
 I am a software engineer from Bhutan 🇧🇹
 
-<!--[![Ugyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugy420&hide=issues&show_icons=true&theme=rose)](https://github.com/ugy420/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugy420&layout=compact&theme=omni)](https://github.com/ugy420/github-readme-stats)
-
+<!--[![Ugyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugy420&hide=issues&show_icons=true&theme=rose&include_all_commits=true)](https://github.com/ugy420/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugy420&layout=compact&hide_border=true)](https://github.com/ugy420/github-readme-stats) 
