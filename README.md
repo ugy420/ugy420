@@ -1,4 +1,6 @@
-<a href=""><img src="./assets/background.png"></a>
+<p align="center">
+  <a href=""><img src="./assets/bg.jpg"></a>
+</p>
 
 ---
 
