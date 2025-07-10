@@ -3,7 +3,7 @@
 </p>
 
 **About me**<br/>
-I am a software engineer from Bhutan 🇧🇹
+I am a software engineer from Bhutan🇧🇹 with a passion for building seamless applications
 
 <!--[![Ugyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugy420&hide=issues&show_icons=true&theme=rose&include_all_commits=true)](https://github.com/ugy420/github-readme-stats)-->
 
