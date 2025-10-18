@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ugyen-wangda-gyeltshen.vercel.app/" alt="Hero"><img src="./assets/bg.jpg"></a>
+  <a href="https://ugyen-wangda-gyeltshen.vercel.app/" alt="Banner"><img src="./assets/bg.jpg"></a>
 </p>
 
 **About me**<br/>
