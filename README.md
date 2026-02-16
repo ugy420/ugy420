@@ -2,8 +2,6 @@
   <a href="https://ugyen-wangda-gyeltshen.vercel.app/"><img src="./assets/bg.jpg"></a>
 </p>
 
-**About me**<br/>
-
 <!--[![Ugyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugy420&hide=issues&show_icons=true&theme=rose&include_all_commits=true)](https://github.com/ugy420/github-readme-stats)-->
 
 <img src="https://komarev.com/ghpvc/?username=ugy420&style=for-the-badge&label=views&color=ff69b4"/>
