@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ugyen-wangda-gyeltshen.vercel.app/"><img src="./assets/bg.jpg"></a>
+  <!-- <a href="https://ugyen-wangda-gyeltshen.vercel.app/"><img src="./assets/bg.jpg"></a> -->
 </p>
 
 <!--[![Ugyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugy420&hide=issues&show_icons=true&theme=rose&include_all_commits=true)](https://github.com/ugy420/github-readme-stats)-->
